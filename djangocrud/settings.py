@@ -27,7 +27,7 @@ SECRET_KEY = '%eqd=e0w#4=+r)w)fhf4i@q=5ic73y#fyfg#!!g#1yxl2@+5xt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['app1.herokuapp.com']
+ALLOWED_HOSTS = ['https://djangocrud-2.onrender.com']
 
 
 # Application definition
